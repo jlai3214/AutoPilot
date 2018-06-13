@@ -24,18 +24,17 @@ import LTE.qa.myGalaxy;
 import LTE.utilities.Utility;
 import LTE.utilities.WebDrivers;
 import LET.utilities.WebElements;
-//import com.thoughtworks.selenium.Selenium;
 
 public class Salesforce {
 
 		
-		public static List myStep, myData, myWEC;
-		public static String myWEI, myWEType, myIdentifer, myValue, myLabel;
+	public static List myStep, myData, myWEC;
+	public static String myWEI, myWEType, myIdentifer, myValue, myLabel;
 	
-		public static WebElement myWebTable = null;
-		public static List <WebElement> myWTElements;
-		public Alert alert;
-		public static String myRunStatus;
+	public static WebElement myWebTable = null;
+	public static List <WebElement> myWTElements;
+	public Alert alert;
+	public static String myRunStatus;
 		public static List stepLog = new ArrayList();
 		public static WebElement myElement = null;
 		public static List <WebElement> myElements = null;
