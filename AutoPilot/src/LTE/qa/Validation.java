@@ -29,7 +29,7 @@ public class Validation {
 	public static String JSATDir = "\\\\na\\corpshared\\apps\\quality assurance\\selenium\\automation\\";
 		
 		//System Variable'
-		public static int snapShotMode;
+	public static int snapShotMode;
 		public static boolean trace;
 		public static String myConfigPath;
 		public static String myGalaxyDir,	myTestCaseDir, myProject, myApp;
