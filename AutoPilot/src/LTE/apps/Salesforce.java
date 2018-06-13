@@ -29,14 +29,14 @@ import LET.utilities.WebElements;
 public class Salesforce {
 
 		
-		public static List myStep, myData, myWEC;
-		public static String myWEI, myWEType, myIdentifer, myValue, myLabel;
+	public static List myStep, myData, myWEC;
+	public static String myWEI, myWEType, myIdentifer, myValue, myLabel;
 	
-		public static WebElement myWebTable = null;
-		public static List <WebElement> myWTElements;
-		public Alert alert;
-		public static String myRunStatus;
-		public static List stepLog = new ArrayList();
+	public static WebElement myWebTable = null;
+	public static List <WebElement> myWTElements;
+	public Alert alert;
+	public static String myRunStatus;
+	public static List stepLog = new ArrayList();
 		public static WebElement myElement = null;
 		public static List <WebElement> myElements = null;
 		public static WebElement myElement_unSelected;

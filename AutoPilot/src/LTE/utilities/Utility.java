@@ -38,7 +38,7 @@ public class Utility {
 			//getStoredValue("&abc");
 		}
 		
-        public static void forceClick(WebElement e, String browser) {
+  public static void forceClick(WebElement e, String browser) {
             	
         		if (browser.equalsIgnoreCase("Internet Explorer")) {
         			e.sendKeys(Keys.ENTER);
