@@ -1,7 +1,5 @@
 package LTE.apps;
-
-
-
+#edit from github
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
