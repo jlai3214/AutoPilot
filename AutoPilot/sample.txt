@@ -15,3 +15,5 @@ This is sample file push to github
 # make change in staging branch
 
 # make change in no-fast-foreard branch
+
+# 1st change in master branch .............
