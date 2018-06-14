@@ -1,3 +1,5 @@
 This is sample file push to github
 
-# make change directly from github
+# 1st make change directly from github
+
+#2nd make change directly from github
