@@ -3,3 +3,5 @@ This is sample file push to github
 # 1st make change directly from github
 
 #2nd make change directly from github
+
+#make 1st change in local and push to remote github
